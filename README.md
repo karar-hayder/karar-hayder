@@ -68,11 +68,11 @@ Here are some of the projects I've built or contributed to:
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/karar-haider" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/karar-haider" target="_blank" style="display:inline-block; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://discord.com/users/kl4_zzy" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/635727358049124363" target="_blank" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/Discord-Message%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message me on Discord" />
   </a>
 </p>
 
