@@ -91,7 +91,6 @@ Here are some of the projects I've built or contributed to:
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" />
 </p>
 
 ---
@@ -106,25 +105,14 @@ Here are some of the projects I've built or contributed to:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karar-hayder&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karar-hayder&layout=compact&theme=github_dark" alt="Top Languages" />
+  <a href="https://github.com/karar-hayder">
+    <img src="https://github-readme-stats.vercel.app/api?username=karar-hayder&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/karar-hayder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karar-hayder&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  </a>
 </p>
 
----
-
-### 🔥 Streak & Wakatime
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karar-hayder&theme=github-dark" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=karar-hayder&theme=github_dark" alt="Wakatime Stats" />
-</p>
-
----
-
-### 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karar-hayder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karar-hayder&theme=github-dark&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
