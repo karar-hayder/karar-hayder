@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Karar+Haider;Full-Stack+Software+Developer;Backend-focused+%7C+Tech+Explorer+%7C+Iraq+%F0%9F%87%AE%F0%9F%87%B6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Karar+Haider;Full-Stack+Software+Developer;Backend-focused+%7C+Tech+Explorer+%7C+Iraq+%F0%9F%87%AE%F0%9F%87%B6" alt="Typing SVG" />
 </p>
 
 ---
