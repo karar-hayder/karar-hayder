@@ -41,7 +41,9 @@
   <span style="color:#888;">AI-enhanced social platform combining social media with intelligent interactions. Built with Django + Next.js + PostgreSQL.</span>
 
 - 🔍 [**RepliCheck**](https://github.com/karar-hayder/Replicheck)  
-  <span style="color:#888;">CLI tool for code duplication and complexity analysis. Detects similar functions, large code blocks, and more.</span>
+  <span style="color:#888;">
+    Python tool for fast, configurable detection of duplicate code, code quality issues, large files/classes, high complexity functions, unused imports, and TODO/FIXME comments. Supports Python, JS/TS, JSX/TSX, and C#. Generates detailed Markdown, JSON, or text reports with clickable file links and summary stats.
+  </span>
 
 - 📚 [**RecAnthology**](https://github.com/karar-hayder/RecAnthology)  
   <span style="color:#888;">Smart recommendation system for books, movies, and TV shows — uses recommendation algorithms to tailor content collections.</span>
@@ -53,7 +55,11 @@
   <span style="color:#888;">A Django web app for pharmaceutical logistics. Features inventory, supplier tracking, and secure user auth.</span>
 
 - 💾 [**SafeCopy**](https://github.com/karar-hayder/SafeCopy)  
-  <span style="color:#888;">Lightweight automated backup tool for Windows with a local web interface and scheduled options.</span>
+  <span style="color:#888;">
+    Automated backups made effortless: SafeCopy lets you configure, schedule, and monitor folder-to-folder backups—locally or across drives—using a modern, intuitive web dashboard.<br>
+    Features include advanced scheduling (interval/daily/weekly/monthly), instant or automatic runs, file versioning, compression (none/zip/tar), detailed logs/history, role-based web authentication, system tray support, and config auto-migration from JSON to SQLite.<br>
+    Built for zero-hassle, reliable backups with full transparency and control.
+  </span>
 
 ---
 
