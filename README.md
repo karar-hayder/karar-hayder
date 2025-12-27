@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<table align="center">
+<table align="center" style="font-size:120%;">
   <tr>
     <th>🧩</th>
     <th>🛠️</th>
@@ -42,40 +42,32 @@
 
 <table>
   <tr>
-    <td width="18%">🐍 <a href="https://github.com/karar-hayder/SynthTweet"><b>SynthTweet</b></a></td>
-    <td>
-      <sub>
-        <b>AI-enhanced social platform</b> combining real-time interaction with intelligent responses.<br>
-        Built with <code>Django</code>, <code>Next.js</code>, <code>PostgreSQL</code>, and <code>Redis</code>.
-      </sub>
+    <td width="18%" style="font-size:120%;">🐍 <a href="https://github.com/karar-hayder/SynthTweet"><b>SynthTweet</b></a></td>
+    <td style="font-size:120%;">
+      <b>AI-enhanced social platform</b> combining real-time interaction with intelligent responses.<br>
+      Built with <code>Django</code>, <code>Next.js</code>, <code>PostgreSQL</code>, and <code>Redis</code>.
     </td>
   </tr>
   <tr>
-    <td>🔍 <a href="https://github.com/karar-hayder/Replicheck"><b>RepliCheck</b></a></td>
-    <td>
-      <sub>
-        High-performance static analysis tool for detecting duplication and code quality issues.<br>
-        Supports Python, JS/TS, JSX/TSX, and C# with detailed Markdown/JSON reporting.
-      </sub>
+    <td style="font-size:120%;">🔍 <a href="https://github.com/karar-hayder/Replicheck"><b>RepliCheck</b></a></td>
+    <td style="font-size:120%;">
+      High-performance static analysis tool for detecting duplication and code quality issues.<br>
+      Supports Python, JS/TS, JSX/TSX, and C# with detailed Markdown/JSON reporting.
     </td>
   </tr>
   <tr>
-    <td>📚 <a href="https://github.com/karar-hayder/RecAnthology"><b>RecAnthology</b></a></td>
-    <td>
-      <sub>
-        Modular recommendation engine for books, movies, and TV shows.<br>
-        Focused on algorithm design, data modeling, and system trade-offs.<br>
-        Built with <code>Django</code>, <code>DRF</code>, and <code>PostgreSQL</code>.
-      </sub>
+    <td style="font-size:120%;">📚 <a href="https://github.com/karar-hayder/RecAnthology"><b>RecAnthology</b></a></td>
+    <td style="font-size:120%;">
+      Modular recommendation engine for books, movies, and TV shows.<br>
+      Focused on algorithm design, data modeling, and system trade-offs.<br>
+      Built with <code>Django</code>, <code>DRF</code>, and <code>PostgreSQL</code>.
     </td>
   </tr>
   <tr>
-    <td>💾 <a href="https://github.com/karar-hayder/SafeCopy"><b>SafeCopy</b></a></td>
-    <td>
-      <sub>
-        Reliable backup automation tool with scheduling, versioning, compression, and audit logs.<br>
-        Designed for robustness and minimal operational overhead.
-      </sub>
+    <td style="font-size:120%;">💾 <a href="https://github.com/karar-hayder/SafeCopy"><b>SafeCopy</b></a></td>
+    <td style="font-size:120%;">
+      Reliable backup automation tool with scheduling, versioning, compression, and audit logs.<br>
+      Designed for robustness and minimal operational overhead.
     </td>
   </tr>
 </table>
