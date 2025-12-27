@@ -1,35 +1,38 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Karar+Haider;Full-Stack+Software+Developer;Backend-focused+%7C+Tech+Explorer+%7C+Iraq+%F0%9F%87%AE%F0%9F%87%B6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Karar+Haider;Backend-Focused+Software+Engineer;Scalable+Systems+%7C+APIs+%7C+Iraq+%F0%9F%87%AE%F0%9F%87%B6" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="brain" />
-</div>
-
 <p align="center">
-  Since the age of <b>5</b>, I've been obsessed with tech — always tweaking, breaking, and fixing things.<br>
-  In <b>2018</b>, I dove seriously into programming and explored fields like <b>Cybersecurity</b>, <b>AI/ML</b>, and <b>Full-Stack Development</b>.<br><br>
-  Today, I'm a software developer with a backend focus, building scalable systems, APIs, and web platforms — and still exploring the edges of technology.
+  Backend-focused software developer who enjoys building systems, APIs, and automation.<br>
+  I care about architecture, performance, and understanding how software behaves at scale.<br>
+  Most of my work lives on the backend, where design decisions actually matter.
 </p>
-
-<blockquote align="center">
-  ⚠️ <i>Fun twist: I'm also working on a pharmacy degree — diverse paths, one mission: solving problems with tech.</i>
-</blockquote>
 
 ---
 
-## 🚀 What Inspires Me to Build
+## 🚀 What I Like to Build
 
 <div align="center">
 
-| 🌐 | 🤖 | 🛠 | ⚡ |
-|:--:|:--:|:--:|:--:|
-| <b>Dynamic web platforms</b> <br> (from backend logic to polished UIs) | <b>Automation that eliminates the boring stuff</b> | <b>Tools that boost productivity <br> and make life easier</b> | <b>AI-driven solutions <br> & performance optimizations</b> |
+<table align="center">
+  <tr>
+    <th>🧩</th>
+    <th>🛠️</th>
+    <th>⚙️</th>
+    <th>📈</th>
+  </tr>
+  <tr>
+    <td><b>Backend systems & APIs</b><br><sub>Designed for clarity and scale</sub></td>
+    <td><b>Automation & internal tools</b><br><sub>Reduce friction & repetition</sub></td>
+    <td><b>Developer tools</b><br><sub>Improve workflows</sub></td>
+    <td><b>Reliable, high-performance software</b><br><sub>Built for production</sub></td>
+  </tr>
+</table>
 
 </div>
 
@@ -37,161 +40,133 @@
 
 ## 🚀 Featured Projects
 
-- 🐍 [**SynthTweet**](https://github.com/karar-hayder/SynthTweet)  
-  <span style="color:#888;">AI-enhanced social platform combining social media with intelligent interactions. Built with Django + Next.js + PostgreSQL.</span>
+<table>
+  <tr>
+    <td width="18%">🐍 <a href="https://github.com/karar-hayder/SynthTweet"><b>SynthTweet</b></a></td>
+    <td>
+      <sub>
+        <b>AI-enhanced social platform</b> combining real-time interaction with intelligent responses.<br>
+        Built with <code>Django</code>, <code>Next.js</code>, <code>PostgreSQL</code>, and <code>Redis</code>.
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td>🔍 <a href="https://github.com/karar-hayder/Replicheck"><b>RepliCheck</b></a></td>
+    <td>
+      <sub>
+        High-performance static analysis tool for detecting duplication and code quality issues.<br>
+        Supports Python, JS/TS, JSX/TSX, and C# with detailed Markdown/JSON reporting.
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td>📚 <a href="https://github.com/karar-hayder/RecAnthology"><b>RecAnthology</b></a></td>
+    <td>
+      <sub>
+        Modular recommendation engine for books, movies, and TV shows.<br>
+        Focused on algorithm design, data modeling, and system trade-offs.<br>
+        Built with <code>Django</code>, <code>DRF</code>, and <code>PostgreSQL</code>.
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td>💾 <a href="https://github.com/karar-hayder/SafeCopy"><b>SafeCopy</b></a></td>
+    <td>
+      <sub>
+        Reliable backup automation tool with scheduling, versioning, compression, and audit logs.<br>
+        Designed for robustness and minimal operational overhead.
+      </sub>
+    </td>
+  </tr>
+</table>
 
-- 🔍 [**RepliCheck**](https://github.com/karar-hayder/Replicheck)  
-  <span style="color:#888;">
-    Python tool for fast, configurable detection of duplicate code, code quality issues, large files/classes, high complexity functions, unused imports, and TODO/FIXME comments. Supports Python, JS/TS, JSX/TSX, and C#. Generates detailed Markdown, JSON, or text reports with clickable file links and summary stats.
-  </span>
+<details>
+  <summary><strong>Additional Systems</strong></summary>
 
-- 📚 [**RecAnthology**](https://github.com/karar-hayder/RecAnthology)  
-  <span style="color:#888;">Smart recommendation system for books, movies, and TV shows — uses recommendation algorithms to tailor content collections.</span>
+- ♟️ <a href="https://github.com/karar-hayder/Quizzy-Chess"><b>Quizzy-Chess</b></a>  
+    <sub>Real-time multiplayer chess platform using WebSockets, Redis, Docker, and modern UI.</sub>
 
-- ♟️ [**Quizzy-Chess**](https://github.com/karar-hayder/Quizzy-Chess)  
-  <span style="color:#888;">Real-time chess platform with AI quiz integration, Redis, Docker, and modern UI.</span>
-
-- 💊 [**PharmaLogix**](https://github.com/karar-hayder/PharmaLogix)  
-  <span style="color:#888;">A Django web app for pharmaceutical logistics. Features inventory, supplier tracking, and secure user auth.</span>
-
-- 💾 [**SafeCopy**](https://github.com/karar-hayder/SafeCopy)  
-  <span style="color:#888;">
-    Automated backups made effortless: SafeCopy lets you configure, schedule, and monitor folder-to-folder backups—locally or across drives—using a modern, intuitive web dashboard.<br>
-    Features include advanced scheduling (interval/daily/weekly/monthly), instant or automatic runs, file versioning, compression (none/zip/tar), detailed logs/history, role-based web authentication, system tray support, and config auto-migration from JSON to SQLite.<br>
-    Built for zero-hassle, reliable backups with full transparency and control.
-  </span>
+</details>
 
 ---
 
 ## 🔧 Core Tech Stack
 
 <blockquote>
-  <b>I'm most comfortable with:</b>
+  <b>Primary tools for backend system design and implementation:</b>
 </blockquote>
 
 <table align="center">
   <tr>
     <td><b>Languages & Frameworks</b></td>
-    <td>Python, Django, DRF, TypeScript, Next.js</td>
+    <td>Python, Django, Django REST Framework, TypeScript, Next.js</td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td>TailwindCSS, Sass, React</td>
+    <td>React, TailwindCSS, Sass</td>
   </tr>
   <tr>
-    <td><b>Backend & Infra</b></td>
+    <td><b>Backend & Infrastructure</b></td>
     <td>PostgreSQL, Redis, Celery, Docker, Nginx</td>
   </tr>
   <tr>
-    <td><b>Tools</b></td>
+    <td><b>Tooling</b></td>
     <td>Git, Linux (Ubuntu), Docker Compose</td>
   </tr>
 </table>
 
+<div align="center" style="margin-top:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="34" alt="TypeScript" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="34" alt="Django" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="34" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="34" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="34" alt="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="34" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="34" alt="Linux" />
+</div>
+
 ---
 
-## 📚 Currently Learning
+## 📝 Current Focus Areas
 
-<div align="center">
-
-| ⚙️ DevOps best practices | 🧩 System architecture and scalability | ⚛️ Next.js + SSR + APIs |
-|:-----------------------:|:-------------------------------------:|:-----------------------:|
-
-</div>
+<table align="center">
+  <tr>
+    <th>🧩 Backend architecture & scalability</th>
+    <th>⚙️ Production infrastructure & reliability</th>
+    <th>⚛️ Modern Next.js (SSR & API integration)</th>
+  </tr>
+</table>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/karar-haider" target="_blank" style="display:inline-block; margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <a href="https://linkedin.com/in/karar-haider">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
   </a>
-  <a href="https://discord.com/users/635727358049124363" target="_blank" style="display:inline-block;">
+  <a href="https://discord.com/users/635727358049124363">
     <img src="https://img.shields.io/badge/Discord-Message%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message me on Discord" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tools & Languages
-
-<div align="center">
-
-<!-- Languages -->
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" style="margin: 0 10px;" />
-</p>
-<p><b>Languages</b></p>
-
-<!-- Frameworks & Libraries -->
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" style="margin: 0 10px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" style="margin: 0 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" style="margin: 0 10px;" />
-</p>
-<p><b>Frameworks & Libraries</b></p>
-
-<!-- Databases -->
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" style="margin: 0 10px;" />
-</p>
-<p><b>Databases</b></p>
-
-<!-- DevOps & Infra -->
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin: 0 10px;" />
-</p>
-<p><b>DevOps & Infra</b></p>
-
-<!-- Tools -->
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" style="margin: 0 10px;" />
-</p>
-<p><b>Tools</b></p>
-
-</div>
-
----
-
 ## 💪 Outside of Tech
 
-<div align="center">
-
-| 🏋️‍♂️ Weightlifting & Calisthenics enthusiast | 🎥 Photography & Cinematography lover |
-|:--------------------------------------------:|:------------------------------------:|
-
-</div>
+<table align="center">
+  <tr>
+    <th>🏋️‍♂️ Strength training & calisthenics</th>
+    <th>🎥 Photography & cinematography</th>
+  </tr>
+</table>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/karar-hayder">
-    <img src="https://github-readme-stats.vercel.app/api?username=karar-hayder&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/karar-hayder">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karar-hayder&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karar-hayder&theme=github-dark&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karar-hayder&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" alt="GitHub stats for karar-hayder" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karar-hayder&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Top languages used by karar-hayder on GitHub" />
 </p>
