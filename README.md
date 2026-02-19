@@ -66,9 +66,9 @@
   <tr>
     <td style="font-size:120%;">📚 <a href="https://github.com/karar-hayder/RecAnthology"><b>RecAnthology</b></a></td>
     <td style="font-size:120%;">
-      Modular recommendation engine for books, movies, and TV shows.<br>
-      Focused on algorithm design, data modeling, and backend system trade-offs.<br>
-      Built with <code>Django</code>, <code>DRF</code>, and <code>PostgreSQL</code>.
+      Hybrid recommendation system for books, movies, and TV shows, combining content-based modeling and collaborative filtering with adaptive weighting.<br>
+      Features cold-start handling, offline evaluation metrics, and delivers measurable, personalized recommendations.<br>
+      Tech Stack: <code>Python</code>, <code>Django</code>, <code>Django REST Framework</code>, <code>PostgreSQL</code>, <code>Redis</code>, <code>JavaScript</code>.
     </td>
   </tr>
   <tr>
