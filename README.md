@@ -74,8 +74,7 @@
   <tr>
     <td style="font-size:120%;">💾 <a href="https://github.com/karar-hayder/SafeCopy"><b>SafeCopy</b></a></td>
     <td style="font-size:120%;">
-      Reliable backup automation tool with scheduling, versioning, compression, and audit logs.<br>
-      Designed for robustness and minimal operational overhead.
+      Integrity-focused backup engine with atomic operations, manifest-based verification, AES-GCM encryption, and layered service/repository architecture.
     </td>
   </tr>
 </table>
